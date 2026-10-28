@@ -1,5 +1,11 @@
 [
   {
+    "icao": "IND",
+    "name": "Indianapolis Aviation",
+    "callsign": "Indy",
+    "virtual": true
+  },
+  {
     "icao": "VNR",
     "name": "VinciAir",
     "callsign": "WINAIR",
